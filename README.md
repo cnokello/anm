@@ -4,7 +4,7 @@
 * Orace JDK - version 1.7 or later
 * SBT - version 0.13 or later
 
-** Configuration**
+**Configuration**
 
 * Edit the `airports_near_me.properties` file to reflect the setup of your system. This file is located in the resources sub directory.
 
