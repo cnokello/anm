@@ -1,0 +1,92 @@
+Aerobic exercise,Aerobics
+Aerobic exercise,Circuit training
+Aerobic exercise,Cycling
+Aerobic exercise,Hiking
+Aerobic exercise,Running
+Aerobic exercise,Skipping rope
+Aerobic exercise,Swimming
+Aerobic exercise,Walking
+Aerobic exercise,Power walking
+Anaerobic exercise,Body building
+Anaerobic exercise,Eccentric training
+Anaerobic exercise,Functional training
+Anaerobic exercise,Sprint (running)
+Anaerobic exercise,Weight training
+Strength training (Quadriceps),Leg extension
+Strength training (Quadriceps),Leg press
+Strength training (Quadriceps),Lunge
+Strength training (Quadriceps),Squat
+Strength training (Hamstrings),Deadlift
+Strength training (Hamstrings),Good-morning
+Strength training (Hamstrings),Leg curl
+Strength training (Hamstrings),Squat
+Strength training (Calves),Calf raise
+Strength training (Pectorals),Bench press
+Strength training (Pectorals),Chest fly
+Strength training (Pectorals),Dips
+Strength training (Pectorals),Machine fly
+Strength training (Lats and trapezius),Bent-over row
+Strength training (Lats and trapezius),Chin-up
+Strength training (Lats and trapezius),Pulldown
+Strength training (Lats and trapezius),Pullup
+Strength training (Lats and trapezius),Seated row
+Strength training (Lats and trapezius),Shoulder shrug
+Strength training (Deltoids) ,Front raise
+Strength training (Deltoids) ,Head stand into Handstand push-up
+Strength training (Deltoids) ,Lateral raise 
+Strength training (Deltoids) ,Military press (c)
+Strength training (Deltoids) ,Rear delt raise (i)
+Strength training (Deltoids) ,Shoulder press (c)
+Strength training (Deltoids) ,Upright row (c)
+Strength training (Biceps) ,Biceps curl
+Strength training (Biceps) ,Pull ups with a supinated grip
+Strength training (Triceps) ,Close-grip bench press
+Strength training (Triceps) ,Dip
+Strength training (Triceps) ,Pushdown
+Strength training (Triceps) ,Triceps extension
+Strength training (Foreams) ,Wrist curl
+Strength training (Foreams) ,Wrist extension
+Strength training (Abdomen and obliques),Crunch
+Strength training (Abdomen and obliques),Leg raise
+Strength training (Abdomen and obliques),Russian twist
+Strength training (Abdomen and obliques),Sit-up
+Strength training (Lower back),Deadlift
+Strength training (Lower back),Good-morning
+Strength training (Lower back),Hyperextension
+Calisthenics,Abdominal exercise
+Calisthenics,Calf-raises
+Calisthenics,Crunches
+Calisthenics,Dips
+Calisthenics,Hyperextensions
+Calisthenics,Jumping jacks
+Calisthenics,Leg raises
+Calisthenics,Lunges
+Calisthenics,Plank
+Calisthenics,Pull-ups
+Calisthenics,Push-ups
+Calisthenics,Sit-ups
+Calisthenics,Squat jumps (Toyotas/Box Jumps)
+Calisthenics,Squats
+Stretching,Ballistic stretching
+Stretching,Dynamic stretching
+Stretching,PNF stretching
+Stretching,Static stretching
+Stretching,Passive stretching
+Specialized training methods,Altitude training
+Specialized training methods,Boxing training
+Specialized training methods,Circuit training
+Specialized training methods,Complex training
+Specialized training methods,Cross training
+Specialized training methods,Endurance training
+Specialized training methods,Long slow distance
+Specialized training methods,Grip strength training
+Specialized training methods,Interval training
+Specialized training methods,Plyometrics (jump training)
+Specialized training methods,Strength training
+Specialized training methods,High intensity training
+Specialized training methods,Weight training
+Specialized training methods,Resistance training
+Specialized training methods,Training to failure
+Other,Physical therapy
+Other,Pilates
+Other,Yoga

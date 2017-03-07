@@ -1,0 +1,19 @@
+curl -X POST -H 'Content-type:application/json' --data-binary '{
+  "add-field":{
+     "name":"iata_code",
+     "type":"text_general",
+     "stored":true,
+     "indexed": true,
+     "stored": true,
+     "multiValued": false }
+}' http://localhost:8983/solr/airports/schema
+
+curl -X POST -H 'Content-type:application/json' --data-binary '{
+  "add-field":{
+     "name":"lat_lon",
+     "type":"location",
+     "stored":true,
+     "indexed": true,
+     "stored": true,
+     "multiValued": false }
+}' http://localhost:8983/solr/airports/schema
